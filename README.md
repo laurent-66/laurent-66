@@ -1,3 +1,5 @@
+<h2>Présentation</h2>
+
 Bonjour, je m'appelle Laurent je suis développeur full stack, je m'intéresse principalement au développement PHP et framework symfony.
 Côté JavaScript, j'ai également les connaissances de base en Angular pour le front et NestJS côté back.
 Actuellement je suis en Formation en alternance chez openclassrooms pour obtenir le titre de développeur d'application php/symfony (Titre RNCP niveau 6 => niveau licence).
@@ -13,5 +15,7 @@ Cordialement,
 
 Laurent.
 
+
+<h2>Compétences</h2>
 
 <img src="https://github.com/laurent-66/img/blob/main/Image-competences-github.png">
