@@ -18,4 +18,4 @@ Laurent.
 
 <h2>Compétences</h2>
 
-<img src="https://github.com/laurent-66/img/blob/main/Image-competences-github.png">
+<img src="https://github.com/laurent-66/img/blob/main/Image-skills-github.png">
