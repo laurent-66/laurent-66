@@ -1,7 +1,7 @@
 <h2>Présentation</h2>
 
 <p>Bonjour, je m'appelle Laurent je suis développeur, je m'intéresse principalement au développement PHP et framework symfony.
-Côté JavaScript, Je suis en cours d'apprentissage des bases de Reactjs.
+Côté JavaScript, Je suis en cours d'apprentissage des bases de React js.
 
 J'ai terminé ma formation le 23 octobre 2022 chez openclassrooms en vue de l'obtention du titre de développeur d'application php/symfony (Titre RNCP niveau 6 => niveau licence).<br>
 La présentation de mes livrables de mes différents projets effectués pendant ma formation devront être présentés devant une comission de jury courant décembre 2022, la délivrance du certificat professionnel ce fera les mois suivants.
