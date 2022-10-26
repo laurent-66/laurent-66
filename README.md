@@ -1,6 +1,6 @@
 <h2>Présentation</h2>
 
-<p>Bonjour, je m'appelle Laurent je suis développeur full stack, je m'intéresse principalement au développement PHP et framework symfony.
+<p>Bonjour, je m'appelle Laurent je suis développeur PHP/symfony, je m'intéresse principalement au développement PHP et framework symfony.
 Côté JavaScript, Je suis en cours d'apprentissage des bases de Reactjs.
 
 J'ai terminé ma formation le 23 octobre 2022 chez openclassrooms en vue de l'obtention du titre de développeur d'application php/symfony (Titre RNCP niveau 6 => niveau licence).<br>
