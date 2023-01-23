@@ -30,3 +30,8 @@ Mon site web de présentation ou vous pouvez télécharger mon CV et y trouver l
   <li>API platform</li>
   <li>PHPUnit</li>
 </ul>
+
+<h3>Système de gestion de contenu</h3>
+  <li>Wordpress</li>
+
+
