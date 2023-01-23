@@ -33,5 +33,7 @@ Laurent.
   <li>PHP</li>
   <li>Symfony</li>
   <li>Nestjs</li>
-  <li>MySQL</li>  
+  <li>MySQL</li>
+  <li>Nelmio core</li>
+  <li>API platform</li>
 </ul>
