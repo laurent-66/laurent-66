@@ -26,6 +26,6 @@ Mon site web de présentation ou vous pouvez télécharger mon CV et y trouver l
   <li>Symfony</li>
   <li>Nestjs</li>
   <li>MySQL</li>
-  <li>Nelmio core</li>
+  <li>Nelmio cors</li>
   <li>API platform</li>
 </ul>
