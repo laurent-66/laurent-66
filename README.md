@@ -17,4 +17,21 @@ Laurent.
 
 <h2>Compétences</h2>
 
-<img src="https://github.com/laurent-66/img/blob/main/Image-skills-github.png">
+<!--<img src="https://github.com/laurent-66/img/blob/main/Image-skills-github.png">-->
+
+<h3>Frontend</h3>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript ES6</li>
+  <li>TWIG</li>  
+  <li>Vuejs 3 (en cours de formation)</li>   
+</ul>
+
+<h3>Backend</h3>
+<ul>
+  <li>PHP</li>
+  <li>Symfony</li>
+  <li>Nestjs</li>
+  <li>MySQL</li>  
+</ul>
