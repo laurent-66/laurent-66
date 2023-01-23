@@ -28,4 +28,5 @@ Mon site web de présentation ou vous pouvez télécharger mon CV et y trouver l
   <li>MySQL</li>
   <li>Nelmio cors</li>
   <li>API platform</li>
+  <li>PHPUnit</li>
 </ul>
